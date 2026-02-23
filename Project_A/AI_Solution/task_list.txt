@@ -1,8 +1,0 @@
-turbo_sw_per2
-turbo_sw_per4
-TB_fault
-TB_gasket_problem
-TB_fouling
-egr_sw
-egr_hw_per50
-egr_hw_per90

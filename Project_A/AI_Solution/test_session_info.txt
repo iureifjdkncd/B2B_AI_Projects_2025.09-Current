@@ -1,4 +1,0 @@
-full_feature
-Desc
-100
-TB_fault
